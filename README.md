@@ -13,3 +13,7 @@
   <img align="center" alt="Alex-HTML"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 </div>
+
+<div>
+  ![Snake animation](https://github.com/alexandredomingos/alexandredomingos/blob/output/github-contribution-grid-snake.svg)
+ </div>
