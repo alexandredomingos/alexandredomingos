@@ -1,4 +1,4 @@
-### Olá sou estudante de TPSI
+### Olá sou estudante de ERSC
 
 [![alexandredomingos's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandredomingos&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredomingos&theme=chartreuse-dark&layout=compact)](https://github.com/alexandredomingos/github-readme-stats)
